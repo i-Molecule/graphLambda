@@ -1,0 +1,8 @@
+name: myenv
+dependencies:
+  - python=3.7
+  - anaconda
+  - pip
+  - pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
+  - pip:
+      - -r requirements.txt

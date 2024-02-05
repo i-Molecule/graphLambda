@@ -1,0 +1,7 @@
+Dataset: PDBbind v.2020 refined set
+Benchmarks: PDBbind coreset 2016 (CASF16) , CSAR NRC HiQ set 1 , CSAR NRC HiQ set 2
+Due to large size of data, here we provide only the PDB entries with the correspondant binding affinity as *.csv files 
+Data can be downloaded from the provided links:
+To download PDBbind v.2020 (refined set + CASF16): http://www.pdbbind.org.cn/
+To download CSAR NRC HiQ set1 , set2 : http://csardock.org/
+

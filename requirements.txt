@@ -1,0 +1,13 @@
+--no-index torch-scatter -f https://pytorch-geometric.com/whl/torch-1.10.0+cu102.html
+--no-index torch-sparse -f https://pytorch-geometric.com/whl/torch-1.10.0+cu102.html
+--no-index torch-cluster -f https://pytorch-geometric.com/whl/torch-1.10.0+cu102.html
+--no-index torch-spline-conv -f https://pytorch-geometric.com/whl/torch-1.10.0+cu102.html
+torch-geometric
+numpy==1.20.1
+pandas=1.2.4
+-U scikit-learn=0.24.1
+rdkit-pypi
+matplotlib==3.3.4
+seaborn==0.10.1
+deepdish==0.3.7
+networkx=2.6.3
